@@ -1,1 +1,1 @@
-Martus uses J2SE v. 1.4.2_05.  Sun Java source code can be found at http://java.sun.com/j2se/1.4.2/download.html
+Martus uses J2SE v. 1.4.2_11.  Sun Java source code can be found at http://java.sun.com/j2se/1.4.2/download.html
