@@ -20,7 +20,7 @@ def install_common_artifacts
 end
 
 def install_client_artifacts
-	layouts_jar_artifact_id = "com.jhlabs:layout:jar:2006-08-10"
+	layouts_jar_artifact_id = "com.jhlabs:layouts:jar:2006-08-10"
 	layouts_jar_file = file(_("client/jhlabs/bin/layouts.jar"))
 	install artifact(layouts_jar_artifact_id).from(layouts_jar_file)
 
